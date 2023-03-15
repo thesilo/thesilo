@@ -4,13 +4,13 @@
 
 -Please be aware that @thesilo contains repositories with live and malicious malware - handle with care!
 
-# NIS 2 ressources are found here:
+## NIS 2 ressources
 https://github.com/thesilo/NIS2/wiki
 
-# Symantec ressources are found here:
+## Symantec ressources
 https://github.com/thesilo/Symantec/wiki
 
-# Darkweb safari ressources are found here:
+## Darkweb safari ressources
 https://github.com/thesilo/darkweb-safari/wiki
 
 <!---
