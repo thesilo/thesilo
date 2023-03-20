@@ -13,6 +13,9 @@ https://github.com/thesilo/NIS2/wiki
 ## Symantec ressources
 https://github.com/thesilo/Symantec/wiki
 
+## Trellix ressources
+https://github.com/thesilo/Trellix/wiki
+
 <!---
 thesilo/thesilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
