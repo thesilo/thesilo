@@ -4,14 +4,14 @@
 
 -Please be aware that @thesilo contains repositories with live and malicious malware - handle with care!
 
+## Darkweb safari ressources
+https://github.com/thesilo/darkweb-safari/wiki
+
 ## NIS 2 ressources
 https://github.com/thesilo/NIS2/wiki
 
 ## Symantec ressources
 https://github.com/thesilo/Symantec/wiki
-
-## Darkweb safari ressources
-https://github.com/thesilo/darkweb-safari/wiki
 
 <!---
 thesilo/thesilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
