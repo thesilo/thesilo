@@ -13,6 +13,9 @@ https://github.com/thesilo/NIS2/wiki
 ## Symantec ressources
 https://github.com/thesilo/Symantec/wiki
 
+## Trend Micro ressources
+https://github.com/thesilo/TrendMicro/wiki/Trend-Micro-ressources
+
 ## Trellix ressources
 https://github.com/thesilo/Trellix/wiki
 
