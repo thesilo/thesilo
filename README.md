@@ -7,6 +7,9 @@
 ## Darkweb safari ressources
 https://github.com/thesilo/darkweb-safari/wiki
 
+## OSINT Resources
+https://github.com/thesilo/OSINT/wiki/OSINT-Resources
+
 ## NIS 2 ressources
 https://github.com/thesilo/NIS2/wiki
 
