@@ -4,6 +4,9 @@
 
 -Please be aware that @thesilo contains repositories with live and malicious malware - handle with care!
 
+## Cool tools
+https://github.com/thesilo/cooltools/wiki
+
 ## Darkweb safari ressources
 https://github.com/thesilo/darkweb-safari/wiki
 
