@@ -25,6 +25,9 @@ https://github.com/thesilo/TrendMicro/wiki/Trend-Micro-ressources
 ## Trellix ressources
 https://github.com/thesilo/Trellix/wiki
 
+## Withsecure
+https://github.com/thesilo/Withsecure/Wiki
+
 <!---
 thesilo/thesilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
